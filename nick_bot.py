@@ -18,5 +18,5 @@ async def chnick(ctx, member: discord.Member):
 
 
 
-client.run('NzEzNjg4MzEwOTY2NjQ4ODU0.XsjwHg.-pBtKRgRIq24RzRj1ybTcMMlqPA')
+client.run('DISCORD_BOT_TOKEN_HERE')
 
